@@ -136,9 +136,7 @@ Transmission type distribution.
 
 # 🖼 Dashboard Preview
 
-![Vehicle Dashboard](dashboard.png)
-
-*(Replace `dashboard.png` with your uploaded dashboard screenshot)*
+![Vehicle Dashboard](https://github.com/mayankyaduvnsi/Vehicle-Market-Analysis-Dashboard/blob/main/Vehicle_Market_Dashboard.png)
 
 ---
 
@@ -161,3 +159,14 @@ Transmission type distribution.
 | Power BI | Dashboard visualization |
 
 ---
+
+## 👨‍💻 Author
+
+**Mayank Yadav**  
+Aspiring Data Analyst | Power BI Enthusiast  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to connect!
